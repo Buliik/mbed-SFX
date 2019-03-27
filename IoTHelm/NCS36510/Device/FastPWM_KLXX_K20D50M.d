@@ -1,0 +1,1 @@
+NCS36510/Device/FastPWM_KLXX_K20D50M.o: Device/FastPWM_KLXX_K20D50M.cpp
